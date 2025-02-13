@@ -3,8 +3,8 @@
 #shellcheck source=sources/functions/tests
 . /etc/swizzin/sources/functions/tests
 
-check_service "whisparr" || BAD=true
-check_port_curl "6969" || BAD=true
-check_nginx "whisparr" || BAD=true
+check_service "readarr" || BAD=true
+check_port_curl "8787" || BAD=true
+check_nginx "readarr" || BAD=true
 
 evaluate_bad

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\scripts",
+    "\\scripts\\nginx",
+    "\\scripts\\tests",
+    "\\scripts\\update",
+    "\\scripts\\upgrade",
+    "\\sources",
+    "\\sources\\functions",
+    "\\sources\\patches",
+    "\\sources\\patches\\deluge"
+  ],
+  "SelectedNode": "\\scripts\\update\\whisparr.sh",
+  "PreviewInSolutionExplorer": false
+}
